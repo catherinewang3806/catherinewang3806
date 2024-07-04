@@ -1,8 +1,8 @@
 ## Hi, I'm Catherine!
 
-# Projects
+## Projects
 
-# Skills
+## Skills
 
 - Languages: Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, SciPy), SQL (BigQuery, MySQL)
 - Tools: Tableau, Git/GitHub, Jupyter Notebook, MS Office Suite (Excel, PowerPoint, Word)
