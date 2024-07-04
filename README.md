@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi, I'm Catherine!
+
+# Projects
+
+# Skills
+
+- Languages: Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, SciPy), SQL (BigQuery, MySQL)
+- Tools: Tableau, Git/GitHub, Jupyter Notebook, MS Office Suite (Excel, PowerPoint, Word)
+- Techniques: Statistical analysis, Data pipelines, ML, Data visualization
+
 
 <!--
 **catherinewang3806/catherinewang3806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
